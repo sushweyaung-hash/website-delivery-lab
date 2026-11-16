@@ -25,3 +25,5 @@ The local preview is not a production service.
 - Artifacts contain site.zip and build-info.json, retained for 7 days subject to repository policy.
 - This is CI plus artifact delivery, not a deployed running application.
 This repository demonstrates website validation, automated testing, and delivery using GitHub Actions.
+
+This repository demonstrates collaborative development using feature branches and pull requests.
